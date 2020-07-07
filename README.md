@@ -18,6 +18,7 @@
 * 프레임워크 : SPRING, MYBATIS
 
 ## 데이터베이스 설계
+![oT_DB](https://user-images.githubusercontent.com/50040251/86759956-d4b17280-c07f-11ea-900a-0af08e12640b.png)
 
 ## 구현 기능 소개
 
