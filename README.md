@@ -26,13 +26,17 @@
 ![3](https://user-images.githubusercontent.com/50040251/86922577-d22a4800-c167-11ea-9f8c-c1b93f8d08c9.png)
 - 주문처리현황을 확인할 수 있으며, 고정으로 상단에는 현재 회원의 회원 등급과 관심상품의 개수, 포인트, 쿠폰을 확인할 수 있습니다.
 
+
 ### 주문내역
-![K-002](https://user-images.githubusercontent.com/50040251/86921570-4b28a000-c166-11ea-927f-5f108e40c0d5.png)
+![4](https://user-images.githubusercontent.com/50040251/86922773-13baf300-c168-11ea-8de8-7d8b8747f7e3.png)
 - 주문처리상태를 선택하여 볼 수 있으며, 날짜별로 주문내역을 조회할 수 있습니다.
 
+
 ### 관심상품
-![K-003](https://user-images.githubusercontent.com/50040251/86921776-a5296580-c166-11ea-8c1d-b63c9ff78501.png)
+
 - 마음에 드는 상품을 담아두는 곳으로, 처음에는 옵션이 선택되지 않는 상태로 추가가 되며, 해당 상품을 주문하기 위해서는 옵션을 선택해야 구매할 수 있도록 하였습니다.
 - 옵션을
+
+
 
 
