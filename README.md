@@ -34,8 +34,8 @@
 
 ### 관심상품
 ![2](https://user-images.githubusercontent.com/50040251/86922864-3220ee80-c168-11ea-9265-075b76824a05.png)
-![5](https://user-images.githubusercontent.com/50040251/86923134-9b086680-c168-11ea-8f62-26974c062023.png)
 - 마음에 드는 상품을 담아두는 곳으로, 처음에는 옵션이 선택되지 않는 상태로 추가가 되며, 해당 상품을 주문하기 위해서는 옵션을 선택해야 구매할 수 있도록 하였습니다.
+![5](https://user-images.githubusercontent.com/50040251/86923134-9b086680-c168-11ea-8f62-26974c062023.png)
 - 옵션을
 
 
