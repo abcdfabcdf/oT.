@@ -23,7 +23,7 @@
 ## 구현 기능 소개
 
 ### 마이페이지 메인
-![K-001](https://user-images.githubusercontent.com/50040251/86921088-8c6c8000-c165-11ea-80e7-62af0aef2c97.png)
+![3](https://user-images.githubusercontent.com/50040251/86922577-d22a4800-c167-11ea-9f8c-c1b93f8d08c9.png)
 - 주문처리현황을 확인할 수 있으며, 고정으로 상단에는 현재 회원의 회원 등급과 관심상품의 개수, 포인트, 쿠폰을 확인할 수 있습니다.
 
 ### 주문내역
